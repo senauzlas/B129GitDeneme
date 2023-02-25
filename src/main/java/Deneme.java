@@ -9,6 +9,7 @@ public class Deneme {
         //GitHub 2. deneme
         //Sena Branch
         //Sena Branch 2. deneme
+        //master yorum
 
     }
 }
